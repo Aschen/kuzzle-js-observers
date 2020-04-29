@@ -1,5 +1,5 @@
-# Kuzzle Observe Controller for JS SDK
 
+# Kuzzle Observe Controller for JS SDK
 
 # Realtime Synchronization
 
